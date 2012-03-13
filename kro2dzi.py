@@ -1,4 +1,4 @@
-# UltraSplitter 1.0 made by vik - 2012 - v@42.am
+# kro2dzi 1.0 made by vik - 2012 - v@42.am
 #
 # Tool to convert a .KRO file to a DZI (Deep Zoom Image) format (dir + xml)
 # Usage: ./script [image.kro]
